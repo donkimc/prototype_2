@@ -19,11 +19,17 @@
   box-sizing: border-box;
 }
 
+/* top-head {
+  text-align: left;
+  color: white;
+  font-size: 2rem;
+} */
 body {
   /* background: linear-gradient(220deg, rgba(189,0,255,1) 0%, rgba(0,163,255,1) 100%); */
 background: black;
   height: 100vh;
   background-attachment: fixed;
+  font-size:
   /* font-family */
 }
 
@@ -66,4 +72,8 @@ form {
 .btn {
   padding: 10px;
   margin: 10px;
+}
+
+.arrow-page {
+  text-align:center;
 }
